@@ -41,13 +41,16 @@ Tic-Tac-Toe-SFML
   ├── main.cpp             # Contains the main game logic
   
   ├── CMakeLists.txt       # Define path of SFML library and linkers
+  
   ├── assets/              # Directory for game assets 
+  
   │   ├── arial.ttf        # Default font
+  
   ├── include/             # Header files 
+  
   │   ├── config.h         # Define constant values ​​and settings
+  
   └── cmake-build-debug/   # Directory for compiled binaries and necessary DLLs
+  
       ├── ...
   
----
-
-Thank you for using this project! We hope you enjoy the game.
