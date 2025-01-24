@@ -44,13 +44,12 @@ Tic-Tac-Toe-SFML
   
   ├── assets/              # Directory for game assets 
   
-  │   ├── arial.ttf        # Default font
+  │     ├── arial.ttf        # Default font
   
   ├── include/             # Header files 
   
-  │   ├── config.h         # Define constant values ​​and settings
+  │     ├── config.h         # Define constant values ​​and settings
   
   └── cmake-build-debug/   # Directory for compiled binaries and necessary DLLs
   
-      ├── ...
   
